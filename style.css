@@ -104,9 +104,11 @@ body{
 /*HERO SECTION*/
 
 #hero{
-    background-color: aliceblue;
+    background-image: url(img/hero4.png);
     height:90vh;
     width:100%;
+    background-size: cover;
+    background-position: top 25% right 0;
     padding:0 80px;
     display:flex;
     flex-direction: column;
@@ -123,7 +125,8 @@ body{
 }
 
 #hero button{
-    
+    background-image: url(img/button.png);
+    background-color: transparent;
     color:#088178;
     border:0;
     padding:14px 80px 14px 65px;
