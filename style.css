@@ -772,5 +772,22 @@ footer a:hover{
         
     }
 
+
+    #product-details{
+        display:flex;
+        flex-direction:column;
+    }
+
+    #product-details .single-product-img{
+        width:100%;
+        margin-right:0px;
+    }
+
+    #product-details .single-product-details{
+        width: 100%;
+        padding-top: 30px;
+    }
+
+
     
 }
