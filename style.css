@@ -627,6 +627,10 @@ footer a:hover{
     line-height:25px;
 }
 
+/*ABOUT PAGE*/
+#page-header.about-header{
+    background-image: url("img/about/banner.png");
+}
 
 /*Media Query*/
 @media (max-width:799px) {
