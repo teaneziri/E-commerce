@@ -558,6 +558,19 @@ footer a:hover{
     color:#fff;
 }
 
+#pagination{
+    text-align: center;
+}
+
+#pagination a{
+    text-decoration:none;
+    color:#fff;
+    background-color: #088178;
+    padding:15px 20px;
+    border-radius: 4px;
+    font-weight: 600;
+
+}
 /*Media Query*/
 @media (max-width:799px) {
     #navbar {
